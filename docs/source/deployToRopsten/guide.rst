@@ -1,5 +1,3 @@
-.. _deploy-to-ropsten:
-
 Deploy Smart Contracts to Ropsten
 ==================================
 
